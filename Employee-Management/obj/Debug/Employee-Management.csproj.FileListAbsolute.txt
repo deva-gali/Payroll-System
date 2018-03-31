@@ -1,0 +1,6 @@
+C:\Users\deva.gali\Desktop\Desktop1807\Desktop1807\MVC5\XIAMPHS\Employee-Management\Employee-Management\bin\Debug\Employee-Management.exe.config
+C:\Users\deva.gali\Desktop\Desktop1807\Desktop1807\MVC5\XIAMPHS\Employee-Management\Employee-Management\bin\Debug\Employee-Management.exe
+C:\Users\deva.gali\Desktop\Desktop1807\Desktop1807\MVC5\XIAMPHS\Employee-Management\Employee-Management\bin\Debug\Employee-Management.pdb
+C:\Users\deva.gali\Desktop\Desktop1807\Desktop1807\MVC5\XIAMPHS\Employee-Management\Employee-Management\obj\Debug\Employee-Management.exe
+C:\Users\deva.gali\Desktop\Desktop1807\Desktop1807\MVC5\XIAMPHS\Employee-Management\Employee-Management\obj\Debug\Employee-Management.pdb
+C:\Users\deva.gali\Downloads\tutor\C# Assignment - Deva Gali\Employee-Management\Employee-Management\bin\Debug\Employee-Management.exe.config
